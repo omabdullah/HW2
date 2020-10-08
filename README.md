@@ -31,5 +31,7 @@ We were asked to complete the keyboard function to cycle between the scene ands 
 
 References: 
 https://www.youtube.com/watch?v=8p76pJsUP44
+
 https://www.khronos.org/registry/OpenGL-Refpages/es1.1/xhtml/
+
 https://www.opengl.org/resources/libraries/glut/spec3/node113.html
