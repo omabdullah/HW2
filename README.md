@@ -20,7 +20,7 @@ The second scene is a pyramid of teapots, which is created through two for loops
 ![Scene2](https://i.imgur.com/FN4tXKa.png "Scene 2")
 
 
-The third scene is simply a representation of a house using solid cubes for the body, window, and chimney, a cone for the roof, and a spiral of teapots to depict the sun. The "sun" is simply the first scene, but in this case it lacks glTranslatef, causing the teapots to overlap one another.
+The third scene is simply a representation of a house using solid cubes for the body, window, and chimney, a cone for the roof, and a spiral of teapots to depict the sun. The "sun" is simply the first scene, but in this case it lacks glTranslatef, causing the teapots to overlap one another, which I discovered accidentally as I was developing the first scene's code (worked out in my favor since it looks like a sun haha).
 
 ![Scene3](https://i.imgur.com/cBT141O.png "Scene 3")
 
