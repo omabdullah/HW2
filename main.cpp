@@ -73,7 +73,7 @@ void problem3() {
 	// chimney
 	glTranslatef(.45, .5, 0);
 	glPushMatrix();                  
-	glScalef(1, 3, 1);
+	glScalef(1, 2.75, 1);
 	glutSolidCube(.20);
 	glPopMatrix();
 	glPopMatrix();
